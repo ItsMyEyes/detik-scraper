@@ -1,11 +1,11 @@
 # Detik Scrapper
 
-## 📎 Requirements
+## Requirements
 * requests
 * BeautifulSoup
 
 
-## 🚀 Installation
+## Installation
 - Clone Repository (name must detik!!!)
 ```
 $ git clone https://github.com/ItsMyEyes/detik-scraper.git detik
@@ -23,7 +23,3 @@ import json
 
 print(json.dumps(detik.getListHotNews(), indent=4))
 ```
-
-## 🔐 License
-
-Distributed under the MIT License. See [`LICENSE`](https://github.com/ItsMyEyes/detik-scraper/blob/master/LICENSE) for more information.
