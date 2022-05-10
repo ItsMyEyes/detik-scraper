@@ -15,4 +15,4 @@ print(json.dumps(detik.getListHotNews(), indent=4))
 
 ## 🔐 License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/ItsMyEyes/detik-scraper/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/ItsMyEyes/detik-scraper/blob/main/LICENSE) for more information.
